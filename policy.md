@@ -8,6 +8,10 @@ _Send To Google Tasks_'s use of information received from Google APIs will adher
 
 ## Permissions 
 
+_Send To Google Tasks_ requires the following Google API permissions:
+
+- Tasks API for creating, editing, organizing your tasks. 
+
 ## Privacy 
 
-
+The privacy statement is available [here](/privacy).
