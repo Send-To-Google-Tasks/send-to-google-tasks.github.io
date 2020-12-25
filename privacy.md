@@ -47,7 +47,7 @@ Send To Google Tasks reserves the right to change this Privacy Policy from time 
   
 ## Contact Information 
 
-Send To Google Tasks welcomes your questions or comments regarding this Statement of Privacy. If you believe that Send To Google Tasks has not adhered to this Statement, please contact Send To Google Tasks at this [email address](mailto:yukinying@gmail.com).
+Send To Google Tasks welcomes your questions or comments regarding this Statement of Privacy. If you believe that Send To Google Tasks has not adhered to this Statement, please contact Send To Google Tasks at this [email address](mailto:sendtogtasks@gmail.com).
     
 Effective as of December 24, 2020 
   
