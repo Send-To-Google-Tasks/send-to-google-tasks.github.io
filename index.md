@@ -12,6 +12,10 @@ _Send to Google Tasks_ is a chrome extension that performs one simple thing: it 
 ### Quick Demo
 [![click to see a quick demo](http://img.youtube.com/vi/btwAajcj7X8/0.jpg)](https://youtu.be/btwAajcj7X8)
 
+### Why Google API Permissions are required
+
+While this application only runs within your chrome browser, Google API requires the application to access your data via OAuth access token. That means whoever have access to your token can access your data on your behalf. We keep your token inside the chrome browser. The permission that is granted is Google Tasks API write permissions, which is required to write to Google Tasks. 
+
 ### Disclosures
 
 The privacy policy can be found [here](/privacy). The disclosure and permissions required can be found [here](/policy).
