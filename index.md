@@ -2,7 +2,8 @@ _Send to Google Tasks_ is a chrome extension that performs one simple thing: it 
 
 ### Installation
 
-Click "Add to Chrome" in https://chrome.google.com/webstore/detail/send-to-google-tasks/acomfpnllcpggnclcogaiceicgljnbac.
+1. Go to the [extension](https://chrome.google.com/webstore/detail/send-to-google-tasks/acomfpnllcpggnclcogaiceicgljnbac.) page.
+2. Click the "Add to Chrome" button.
 
 ### Quick Demo
 [![click to see a quick demo](http://img.youtube.com/vi/btwAajcj7X8/0.jpg)](https://youtu.be/btwAajcj7X8)
