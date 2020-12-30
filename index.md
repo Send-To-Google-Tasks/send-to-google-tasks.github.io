@@ -19,3 +19,7 @@ While this application only runs within your chrome browser, Google API requires
 ### Privacy Policy
 
 The privacy policy can be found [here](/privacy).
+
+### Attributions
+
+Icons made by Pixel perfect (https://www.flaticon.com/authors/pixel-perfect) from Flaticon (https://www.flaticon.com).
