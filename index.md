@@ -1,3 +1,5 @@
+# ![icon](https://send-to-google-tasks.github.io/bookmark_128.png) Send to Google Tasks
+
 _Send to Google Tasks_ is a chrome extension that performs one simple thing: it send the page or link from your chrome browser to Google Tasks.
 
 ### Installation
